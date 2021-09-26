@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello Everyone!! Welcome
+
+## I'm Fikri Rafhsanjani Wahiyat, just started my journey in data <br>
+Graduated Data Science Student from Data Science Bootcamp in Rakamin Academy. <br>
+Interested in Mathematics & Statistics, Data & Anlytics, Machine Learning, Artificial Intelligence, Data Modelling <br>
+Let's Connect with me <br>
+📧 fikrirafhsanjani28@gmail.com <br>
+[LinkedIn](https://www.linkedin.com/in/fikri-rafhsanjani/)
 
 <!--
 **firawa28/firawa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
